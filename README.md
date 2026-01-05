@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prerana Gurung</h1>
-<h3 align="center">A passionate Fullstack developer from Nepal</h3>
+<h3 align="center">Technology-driven learner with a focus on practical applications</h3>
 
 - 🌱 I’m currently learning **Java, DSA, Laravel**
 
