@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prerana Gurung</h1>
 <h3 align="center">A passionate Fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Resort Management System](https://github.com/prernagrg/Resort.git)
-
 - 🌱 I’m currently learning **Java, DSA, Laravel**
 
 - 📫 How to reach me **prenagrg1215@gmail.com**
-
-- ⚡ Fun fact **music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
