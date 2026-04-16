@@ -3,21 +3,20 @@
 
 ---
 
-- 🔭 I’m currently working on [android apps](https://github.com/prernagrg/MyFlutterProject.git)
+### 🚀 About Me
 
+- 🔭 I’m currently working on [Android apps](https://github.com/prernagrg/MyFlutterProject.git)
 - 🌱 I’m currently learning **Java, DSA, Flutter**
-
 - 👨‍💻 All of my projects are available at [https://preranagurung.com.np/](https://preranagurung.com.np/)
-
-- 📫 How to reach me **prenagrg1215@gmail.com**
-
-- ⚡ Fun fact **music**
+- 📫 How to reach me: **prenagrg1215@gmail.com**
+- ⚡ Fun fact: I love music 🎵
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/prerana-gurung-498340310" target="blank">
+  <a href="https://linkedin.com/in/prerana-gurung-498340310" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin"
          height="30" width="40"/>
@@ -26,9 +25,9 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+<p align="left">
 
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
@@ -82,7 +81,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   </a>
 
-</div>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prernagrg&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernagrg&layout=compact" />
+</p>
 
 ---
 
