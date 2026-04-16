@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana Gurung</h1>
 <h3 align="center">Technology-driven learner with a focus on practical applications</h3>
 
-### 🚀 About Me
+ 🚀 About Me
 
 - 🔭 I’m currently working on [Android apps](https://github.com/prernagrg/MyFlutterProject.git)
 - 🌱 I’m currently learning **Java, DSA, Flutter**
@@ -9,7 +9,7 @@
 - 📫 How to reach me: **prenagrg1215@gmail.com**
 - ⚡ Fun fact: I love music 🎵
 
-### 📫 Connect with me
+ 📫 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/prerana-gurung-498340310" target="_blank">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### 🛠 Languages and Tools
+ 🛠 Languages and Tools
 
 <table>
   <tr>
@@ -46,7 +46,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></td>
   </tr>
 </table>
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prernagrg&show_icons=true&theme=default" />
