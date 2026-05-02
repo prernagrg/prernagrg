@@ -46,17 +46,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></td>
   </tr>
 </table>
- 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernagrg&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernagrg&layout=compact" />
-</p>
-
----
 
 <!--
 **prernagrg/prernagrg** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
